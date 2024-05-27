@@ -10,7 +10,7 @@ st.set_page_config(page_title="Generate Blogs",
                    initial_sidebar_state='collapsed')
 
 # Hugging Face token
-huggingface_token = "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"
+huggingface_token = #replace with your tokem
 
 # Load the model and tokenizer
 @st.cache_resource
